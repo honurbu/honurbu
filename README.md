@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there 👋 I'm Onur :blush: 
 
-<!--
-**honurbu/honurbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" width="2500" height="250">
 
-Here are some ideas to get you started:
+#### Computer Engineering Student & Back-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :computer: I am interested in Asp.Net Core, API, MVC coding
+
+
+####Contact Me :
+<a href="https://instagram.com/honurbu">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32"></a>
+
+<a href="https://twitter.com/honurbu">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="32"></a>
+
+<a href="https://www.linkedin.com/in/onur-bural-994158233">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="32"></a>
+
+<a href="https://honurbu.medium.com/">
+<img src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" height="32"></a>
+
+###Langues
+
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="32">
+<img src="https://5.imimg.com/data5/YO/LD/GLADMIN-50906000/asp-net-mvc-certification-course-500x500.png" height="32">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="32">
+<img src="https://miro.medium.com/max/480/1*SnZqHENpIMiEKsg999Q0DQ.png" height="32">
+
+##My Posts
+<a href="https://honurbu.medium.com/onion-architecture-so%C4%9Fan-mimarisi-nedir-8b4e8f1fb24">:pencil: Onion Architecture</a>
+<a href="https://honurbu.medium.com/yagni-you-aint-gonna-need-it-prensibi-1b2479e70dbb">:pencil: YAGNI Principle</a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honurbu&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api?username=honurbu&theme=radical">
