@@ -7,7 +7,7 @@
  :computer: I am interested in Asp.Net Core, API, MVC coding
 
 
-####Contact Me :
+#### Contact Me :
 <a href="https://instagram.com/honurbu">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32"></a>
 
@@ -20,14 +20,14 @@
 <a href="https://honurbu.medium.com/">
 <img src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" height="32"></a>
 
-###Langues
+### Languages
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" height="32">
 <img src="https://5.imimg.com/data5/YO/LD/GLADMIN-50906000/asp-net-mvc-certification-course-500x500.png" height="32">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="32">
 <img src="https://miro.medium.com/max/480/1*SnZqHENpIMiEKsg999Q0DQ.png" height="32">
 
-##My Posts
+## My Posts
 <a href="https://honurbu.medium.com/onion-architecture-so%C4%9Fan-mimarisi-nedir-8b4e8f1fb24">:pencil: Onion Architecture</a>
 <a href="https://honurbu.medium.com/yagni-you-aint-gonna-need-it-prensibi-1b2479e70dbb">:pencil: YAGNI Principle</a>
 
