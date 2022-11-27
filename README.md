@@ -21,7 +21,7 @@
 <img src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" height="32"></a>
 
 <a href="https://www.hackerrank.com/honurbu">
-<img src="[https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png)" height="32"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" height="32"></a>
 
 
 
