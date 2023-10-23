@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32"></a>
 
 <a href="https://twitter.com/honurbu">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="32"></a>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" height="32"></a>
 
 <a href="https://www.linkedin.com/in/onur-bural-994158233">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="32"></a>
