@@ -6,7 +6,6 @@
 
  :computer: I am interested in Asp.Net Core, API, MVC coding
 
-<img src="https://camo.githubusercontent.com/1915e67d667e644e3d6bc88e6174688a646db8f768403a93eba1d3c9c54101ed/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72656b6172616b7573266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="honurbu" data-canonical-src="https://komarev.com/ghpvc/?username=honurbu&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 #### Contact Me :
 <a href="https://instagram.com/honurbu">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32"></a>
