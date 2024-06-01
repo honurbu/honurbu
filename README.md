@@ -35,8 +35,6 @@
 <a href="https://honurbu.medium.com/onion-architecture-so%C4%9Fan-mimarisi-nedir-8b4e8f1fb24">:pencil: Onion Architecture</a>
 <a href="https://honurbu.medium.com/yagni-you-aint-gonna-need-it-prensibi-1b2479e70dbb">:pencil: YAGNI Principle</a>
 
-https://github.com/honurbu/github-readme-stats
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honurbu&theme=radical">
 
 <img src="https://github-readme-stats.vercel.app/api?username=honurbu&theme=radical">
