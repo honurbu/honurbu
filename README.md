@@ -37,4 +37,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honurbu&theme=radical">
 
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/honurbu?cardType=level-alternate&theme=ocean-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <img src="https://github-readme-stats.vercel.app/api?username=honurbu&theme=radical">
