@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" width="2500" height="250">
 
-#### Computer Engineering Student & Back-End Developer
+#### Computer Engineer & Back-End Developer
 
  :computer: I am interested in Asp.Net Core, API, MVC coding
 
