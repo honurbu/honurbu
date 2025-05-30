@@ -17,7 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="32"></a>
 
 <a href="https://honurbu.medium.com/">
-<img src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" height="32"></a>
+<img src="https://slabstatic.com/prod/uploads/7cd8fe75/posts/images/ZYioF99U6Y4PLiKXk0-NyhS9.png" height="32"></a>
 
 <a href="https://www.hackerrank.com/honurbu">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" height="32"></a>
